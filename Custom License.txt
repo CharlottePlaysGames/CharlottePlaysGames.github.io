@@ -1,0 +1,25 @@
+Copyright © 2026 Wildcard Maps. All Rights Reserved
+
+This License governs the use of all maps, builds, datapacks, and resource packs created and distributed by Wildcard Maps (the "Studio"). By downloading, installing, or using their maps, you agree to the following terms:
+
+1. Permissions
+You may:
+- Play the map for personal, non-commercial purposes.
+- Record Gameplay or take screenshots, provided credit is given to Wildcard Maps and a link to the official download page is included.
+
+2. Prohibited Access
+You may NOT:
+- Redistribute, reupload, or share the map or any portion of it in any form.
+- Modify, extract, or use the datapack or resource pack outside of the map without written permission from Wildcard Maps.
+- Claim the map or any of its assets as your own work.
+- Sell, monetize, or bundle this project.
+
+3. Fan Project Disclaimer
+Wildcard Maps Recreations are not affiliated with or endorsed by the original creators and is intended for non-commercial fan use only.
+
+4. Limitation of Liability
+Wildcard Maps is not responsible for any damages, loss of data, or technically issues resulting from use of this map. Use at your own risk.
+
+5. Contact
+For permission requests, inquiries, or collaboration opportunities, please contact:
+Discord User: j1nxed_evry1
